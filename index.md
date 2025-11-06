@@ -1,3 +1,3 @@
 # Nathan James Product Knowledge Base
 
-This is a test page for GitHub Pages.
+- [Gracie Bar Stool (SKU 24301)](products/24301.md)
