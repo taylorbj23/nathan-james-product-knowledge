@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://taylorbj23.github.io/nathan-james-product-knowledge/sitemap.xml
