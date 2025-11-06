@@ -1,0 +1,5 @@
+url: https://taylorbj23.github.io
+baseurl: /nathan-james-product-knowledge
+
+plugins:
+  - jekyll-sitemap
